@@ -6,12 +6,14 @@ Junction Balance Analysis (JaBbA, https://github.com/mskilab/JaBbA) is a mixed i
 ## Please cite this
 [FIT IN OUR URL/DOI!!]
 
- _____         ___    _      _____ 
+```
+_____         ___    _      _____ 
 (___  )       (  _`\ ( )    (  _  )
     | |   _ _ | (_) )| |_   | (_) |
  _  | | /'_` )|  _ <'| '_`\ |  _  |
 ( )_| |( (_| || (_) )| |_) )| | | |
 `\___/'`\__,_)(____/'(_,__/'(_) (_)
+```
 
 ## Prepare for running
 `git fork github.com/xtYao/JaBbA_alpha ./ && cd JaBbA_alpha && make`

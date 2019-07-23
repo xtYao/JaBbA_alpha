@@ -7,7 +7,7 @@ Junction Balance Analysis (JaBbA, https://github.com/mskilab/JaBbA) is a mixed i
 [FIT IN OUR URL/DOI!!]
 
 ```
-_____         ___    _      _____ 
+ _____         ___    _      _____ 
 (___  )       (  _`\ ( )    (  _  )
     | |   _ _ | (_) )| |_   | (_) |
  _  | | /'_` )|  _ <'| '_`\ |  _  |
